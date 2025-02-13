@@ -1,5 +1,3 @@
-# CS615
-
 Github Configuration Steps
 
 ### Step 1: Create a New GitHub Repository
@@ -18,7 +16,7 @@ Github Configuration Steps
   ![alt text](image-8.png)
 - Clone the repository to download it![alt text](image-10.png)
 
-### Step 3: Initialize Git (if not already initialized)
+### Step 3: Initialize Git
 
 - If the folder is not already a Git repository, initialize it:
   git init
