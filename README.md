@@ -15,6 +15,7 @@ Step 1: Create a New GitHub Repository
 Step 2: Clone the Repository to Local Machine
 
 - Open Git Bash or terminal and navigate to the local folder: cd /path/to/folder
+  ![alt text](image-8.png)
 - Clone the repository to download it![alt text](image-1.png)
 
 Step 3: Initialize Git (if not already initialized)
