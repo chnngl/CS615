@@ -38,7 +38,7 @@ Github Configuration Steps
   git push -u origin main
   ![alt text](image-9.png)
 
-### Step 5: Pull the latest changes
+### Step 5: Pull the Latest Changes
 
 - Pull existing files from GitHub:
   git pull origin main
