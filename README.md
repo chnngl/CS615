@@ -2,7 +2,7 @@
 
 Github Configuration Steps
 
-Step 1: Create a New GitHub Repository
+### Step 1: Create a New GitHub Repository
 
 - Go to GitHub and log in.
 - Click on profile icon → Select "Your repositories".
@@ -12,13 +12,13 @@ Step 1: Create a New GitHub Repository
 - Check "Add a README file" if we want a default README file.
 - Click "Create repository".![alt text](image-7.png)
 
-Step 2: Clone the Repository to Local Machine
+### Step 2: Clone the Repository to Local Machine
 
 - Open Git Bash or terminal and navigate to the local folder: cd /path/to/folder
   ![alt text](image-8.png)
-- Clone the repository to download it![alt text](image-1.png)
+- Clone the repository to download it![alt text](image-10.png)
 
-Step 3: Initialize Git (if not already initialized)
+### Step 3: Initialize Git (if not already initialized)
 
 - If the folder is not already a Git repository, initialize it:
   git init
@@ -27,7 +27,7 @@ Step 3: Initialize Git (if not already initialized)
   git remote add origin https://github.com/chnngl/CS615.git
   ![alt text](image.png)
 
-Step 4: Make Changes and Push Them to GitHub
+### Step 4: Make Changes and Push Them to GitHub
 
 - Add or modify files in local folder.
 - Check which files have changed:
@@ -40,7 +40,7 @@ Step 4: Make Changes and Push Them to GitHub
   git push -u origin main
   ![alt text](image-9.png)
 
-Step 5: Pull the latest changes
+### Step 5: Pull the latest changes
 
 - Pull existing files from GitHub:
   git pull origin main
