@@ -38,7 +38,7 @@ Step 4: Make Changes and Push Them to GitHub
   git commit -m "Describe your changes"
 - Push the changes to GitHub:
   git push -u origin main
-  ![alt text](image-5.png)
+  ![alt text](image-9.png)
 
 Step 5: Pull the latest changes
 
